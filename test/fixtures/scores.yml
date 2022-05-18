@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  first_user: MyString
+  first_score: 1.5
+  second_user: MyString
+  second_score: 1.5
+  third_user: MyString
+  third_score: 1.5
+  fourth_user: MyString
+  fourth_score: 1.5
+
+two:
+  first_user: MyString
+  first_score: 1.5
+  second_user: MyString
+  second_score: 1.5
+  third_user: MyString
+  third_score: 1.5
+  fourth_user: MyString
+  fourth_score: 1.5
