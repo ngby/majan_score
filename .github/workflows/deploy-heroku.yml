@@ -2,7 +2,7 @@ name: Deploy to heroku.
 
 on:
   push:
-    branches: [main] # デプロイするブランチ名を選択
+    branches: [main] 
 
 jobs:
   build:
